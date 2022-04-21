@@ -5,7 +5,11 @@
       "default": true
     }
   ],
+<<<<<<< HEAD
   "name": "sfdx-chan",
+=======
+  "name": "sfdx-maria",
+>>>>>>> feature-maria-gallery
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "54.0"
